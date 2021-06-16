@@ -1,0 +1,4 @@
+[2021-05-06 17:14:14.109] [renderer6] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/var/www/html/core-cdp/public/libs/PhpSpreadsheet/vendor/jpgraph/jpgraph/lib/jpgraph/src/Examples/jpgraph" points to "/var/www/html/core-cdp/public/libs/PhpSpreadsheet/vendor/jpgraph/jpgraph/lib/jpgraph/src"
+[2021-05-07 11:00:26.309] [renderer6] [error] The Java Runtime Environment can not be located. Please install a JRE, or configure its path with the
+      sonarlint.ls.javaHome property. You can also let SonarLint download the JRE from AdoptOpenJDK. This JRE will be
+      used only by SonarLint.

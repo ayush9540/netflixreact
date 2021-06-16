@@ -1,0 +1,35 @@
+[2021-05-03 15:02:14.234] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-07 19:30:56.552] [sharedprocess] [info] Installing extension: cweijan.vscode-mysql-client2
+[2021-05-07 19:31:00.545] [sharedprocess] [info] Downloaded extension: cweijan.vscode-mysql-client2 undefined
+[2021-05-07 19:31:00.825] [sharedprocess] [info] Extracted extension to /home/ayush/.vscode/extensions/.72a79f2d-20ff-4d74-907d-431ee4e096ae: cweijan.vscode-mysql-client2
+[2021-05-07 19:31:00.969] [sharedprocess] [info] Renamed to /home/ayush/.vscode/extensions/cweijan.vscode-mysql-client2-3.7.0
+[2021-05-07 19:31:00.976] [sharedprocess] [info] Installation completed. cweijan.vscode-mysql-client2
+[2021-05-07 19:31:01.100] [sharedprocess] [info] Extensions installed successfully: cweijan.vscode-mysql-client2
+[2021-05-08 08:12:44.164] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-09 14:19:52.090] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-10 11:21:52.128] [sharedprocess] [info] Installing extension: cweijan.vscode-mysql-client2
+[2021-05-10 11:22:05.078] [sharedprocess] [info] Downloaded extension: cweijan.vscode-mysql-client2 undefined
+[2021-05-10 11:22:05.343] [sharedprocess] [info] Extracted extension to /home/ayush/.vscode/extensions/.68bad810-04fa-4eb0-91c9-6b982f7bd1a6: cweijan.vscode-mysql-client2
+[2021-05-10 11:22:05.490] [sharedprocess] [info] Renamed to /home/ayush/.vscode/extensions/cweijan.vscode-mysql-client2-3.7.3
+[2021-05-10 11:22:05.492] [sharedprocess] [info] Installation completed. cweijan.vscode-mysql-client2
+[2021-05-10 11:22:05.599] [sharedprocess] [info] Extensions installed successfully: cweijan.vscode-mysql-client2
+[2021-05-11 08:36:06.124] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-11 10:34:25.864] [sharedprocess] [info] Installing extension: cweijan.vscode-mysql-client2
+[2021-05-11 10:34:28.589] [sharedprocess] [info] Downloaded extension: cweijan.vscode-mysql-client2 undefined
+[2021-05-11 10:34:28.845] [sharedprocess] [info] Extracted extension to /home/ayush/.vscode/extensions/.6ea96e78-9317-4a33-99f6-4535293c3eaa: cweijan.vscode-mysql-client2
+[2021-05-11 10:34:28.994] [sharedprocess] [info] Renamed to /home/ayush/.vscode/extensions/cweijan.vscode-mysql-client2-3.7.4
+[2021-05-11 10:34:28.999] [sharedprocess] [info] Installation completed. cweijan.vscode-mysql-client2
+[2021-05-11 10:34:29.114] [sharedprocess] [info] Extensions installed successfully: cweijan.vscode-mysql-client2
+[2021-05-12 08:55:08.054] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-13 10:00:24.905] [sharedprocess] [info] Installing extension: cweijan.vscode-mysql-client2
+[2021-05-13 10:00:24.906] [sharedprocess] [info] Installing extension: sonarsource.sonarlint-vscode
+[2021-05-13 10:00:28.686] [sharedprocess] [info] Downloaded extension: cweijan.vscode-mysql-client2 undefined
+[2021-05-13 10:00:28.969] [sharedprocess] [info] Extracted extension to /home/ayush/.vscode/extensions/.3565eeeb-1fa0-464e-ad6a-d2ca0f2766fb: cweijan.vscode-mysql-client2
+[2021-05-13 10:00:29.037] [sharedprocess] [info] Renamed to /home/ayush/.vscode/extensions/cweijan.vscode-mysql-client2-3.7.6
+[2021-05-13 10:00:29.043] [sharedprocess] [info] Installation completed. cweijan.vscode-mysql-client2
+[2021-05-13 10:00:29.165] [sharedprocess] [info] Extensions installed successfully: cweijan.vscode-mysql-client2
+[2021-05-13 10:01:25.813] [sharedprocess] [info] Downloaded extension: sonarsource.sonarlint-vscode undefined
+[2021-05-13 10:01:26.443] [sharedprocess] [info] Extracted extension to /home/ayush/.vscode/extensions/.d87fc0dd-b616-473e-85ce-18d1921192a3: sonarsource.sonarlint-vscode
+[2021-05-13 10:01:26.583] [sharedprocess] [info] Renamed to /home/ayush/.vscode/extensions/sonarsource.sonarlint-vscode-1.22.0
+[2021-05-13 10:01:26.590] [sharedprocess] [info] Installation completed. sonarsource.sonarlint-vscode
+[2021-05-13 10:01:27.671] [sharedprocess] [info] Extensions installed successfully: sonarsource.sonarlint-vscode

@@ -1,0 +1,302 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ayush/Documents/reacttut/css-styling
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/para.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git check-ignore -v -z --stdin
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/greeting.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/greeting.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/greeting.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show --textconv :src/Heading.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Heading.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Greeting.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Greeting.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/List.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/List.jsx
+> git show --textconv :src/App.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/App.jsx
+> git show --textconv :src/Para.jsx
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/Para.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/src/index.js
+> git cat-file -s ef2edf8ea3fc42258464231e29140c8723458c1e
+> git show --textconv :package.json
+> git ls-files --stage -- /home/ayush/Documents/reacttut/css-styling/package.json
+> git cat-file -s 746ed556343d334d69c437144ffdae0baf9489ef
